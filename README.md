@@ -17,9 +17,12 @@ Here's your chance to see your feature request implemented.
 7. Only Feature Requests with 1337+ thumbs up Qualify
 8. Winners decided once a month
 
-### Top 3 Requests = guaranteed implementation in a features release
+### Top 3 Qualifying Requests = guaranteed implementation in a features release
 
 So make sure you search before creating a new issue, or you will be splintering your chances  
+
+# Prize
+* The creator of the most-liked request will receive: 1 year free subscription of a ProfitTrailer Windows or Linux VPS from [LinkUpHost](https://linkuphost.com/clients/aff.php?aff=473).
 
 # Not allowed
 * Backtesting - We do not have the data nor infrastructure required to build a proper back testing logic. (Anyone can provide the data?)
